@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot%202022-12-16%20at%2001-52-35%20Product%20preview%20card%20component.png)
 
 
 
