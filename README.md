@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/khuteshubh/Product-Preview-Card-Component.git)
-- Live Site URL: [(https://khuteshubh.github.io/Product-Preview-Card-Component/)](https://your-live-site-url.com)
+- Live Site URL: [(https://khuteshubh.github.io/Product-Preview-Card-Component/)]
 
 ## My process
 
@@ -44,13 +44,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
